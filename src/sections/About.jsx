@@ -69,7 +69,7 @@ const About = () => {
 
                         <div className="absolute top-0 right-0 w-[70%] md:w-[65%] rounded-3xl overflow-hidden shadow-xl z-10">
                             <img
-                                src="/src/assets/about/about1.jpg"
+                                src="/about/about1.jpg"
                                 alt="Mountain camping with RV"
                                 className="w-full h-64 object-cover"
                             />
@@ -78,7 +78,7 @@ const About = () => {
 
                         <div className="absolute bottom-20 left-0 w-[70%] md:w-[65%] rounded-3xl overflow-hidden shadow-2xl z-20">
                             <img
-                                src="/src/assets/about/about2.jpg"
+                                src="/about/about2.jpg"
                                 alt="Friends exploring together"
                                 className="w-full h-64 object-cover"
                             />
