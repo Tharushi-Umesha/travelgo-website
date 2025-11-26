@@ -236,9 +236,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact & Support
 
 For questions or support, please reach out through:
-- Email: info@travelgo.com
-- Phone: +94 77 123 4567
-- Address: 123 Beach Road, Negombo, Sri Lanka
+- Email: umemahee@gmail.com
+- Phone: +94 740681459
 
 ## 🎯 Future Enhancements
 
