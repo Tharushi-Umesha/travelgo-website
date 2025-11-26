@@ -10,52 +10,52 @@ const Gallery = () => {
         {
             destination: 'MALDIVES',
             description: 'Overwater bungalows with turquoise water description: crystal-clear waters and luxury overwater villas await you',
-            image: '/src/assets/gallery/maldives.jpg'
+            image: '/gallery/maldives.jpg'
         },
         {
             destination: 'SWISS ALPS',
             description: 'Breathtaking snow-capped peaks and world-class skiing adventures in the heart of Europe',
-            image: '/src/assets/gallery/swiss-alps.jpg'
+            image: '/gallery/swiss-alps.jpg'
         },
         {
             destination: 'BALI, INDONESIA',
             description: 'Tropical paradise with stunning rice terraces, ancient temples, and pristine beaches',
-            image: '/src/assets/gallery/bali.jpg'
+            image: '/gallery/bali.jpg'
         },
         {
             destination: 'SANTORINI, GREECE',
             description: 'Iconic white-washed buildings, blue domes, and spectacular Mediterranean sunsets',
-            image: '/src/assets/gallery/santorini.jpg'
+            image: '/gallery/santorini.jpg'
         },
         {
             destination: 'SAFARI, KENYA',
             description: 'Witness incredible wildlife including lions, elephants, and zebras in their natural habitat',
-            image: '/src/assets/gallery/kenya.jpg'
+            image: '/gallery/kenya.jpg'
         },
         {
             destination: 'TOKYO, JAPAN',
             description: 'Where ancient traditions seamlessly blend with cutting-edge technology and modern culture',
-            image: '/src/assets/gallery/tokyo.jpg'
+            image: '/gallery/tokyo.jpg'
         },
         {
             destination: 'PARIS, FRANCE',
             description: 'The city of light offers romance, world-class art, and unforgettable culinary experiences',
-            image: '/src/assets/gallery/paris.jpg'
+            image: '/gallery/paris.jpg'
         },
         {
             destination: 'DUBAI, UAE',
             description: 'Futuristic architecture, luxury shopping, desert safaris, and Arabian hospitality',
-            image: '/src/assets/gallery/dubai.jpg'
+            image: '/gallery/dubai.jpg'
         },
         {
             destination: 'MACHU PICCHU, PERU',
             description: 'Ancient Incan citadel set high in the Andes mountains with breathtaking views',
-            image: '/src/assets/gallery/machu-picchu.jpg'
+            image: '/gallery/machu-picchu.jpg'
         },
         {
             destination: 'ICELAND',
             description: 'Land of fire and ice featuring stunning northern lights, glaciers, and volcanic landscapes',
-            image: '/src/assets/gallery/iceland.jpg'
+            image: '/gallery/iceland.jpg'
         }
     ];
 

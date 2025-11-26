@@ -11,25 +11,25 @@ const Service = () => {
             number: '01',
             title: 'Beach Getaways',
             description: 'Escape to paradise with our stunning beach destinations. Relax on pristine white sands, dive into crystal-clear waters, and unwind in luxury beachfront resorts. We create the perfect tropical retreat tailored to your desires.',
-            image: '/src/assets/services/beach.jpg'
+            image: '/services/beach.jpg'
         },
         {
             number: '02',
             title: 'Adventure Tours',
             description: 'Fuel your adventurous spirit with thrilling expeditions across breathtaking landscapes. Experience mountain trekking, jungle safaris, and extreme sports with expert guides. Push your limits while exploring nature\'s most spectacular wonders in complete safety.',
-            image: '/src/assets/services/adventure.jpg'
+            image: '/services/adventure.jpg'
         },
         {
             number: '03',
             title: 'Cultural Journeys',
             description: 'Immerse yourself in the rich tapestry of global cultures and ancient civilizations. Explore historical landmarks, visit UNESCO Heritage sites, and savor authentic local cuisine. We create meaningful connections with communities for unforgettable cultural experiences.',
-            image: '/src/assets/services/cultural.jpg'
+            image: '/services/cultural.jpg'
         },
         {
             number: '04',
             title: 'Custom Packages',
             description: 'Your journey should be as unique as you are. Our travel experts design completely personalized itineraries matching your interests, budget, and schedule. From honeymoons to family vacations, we handle every detail for your perfect travel experience.',
-            image: '/src/assets/services/custom.jpg'
+            image: '/services/custom.jpg'
         }
     ];
 

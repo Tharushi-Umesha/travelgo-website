@@ -19,7 +19,7 @@ const Footer = () => {
 
                         <div className="mb-4 cursor-pointer" onClick={() => scrollToSection('home')}>
                             <img
-                                src="/src/assets/images/TravelGo.png"
+                                src="/images/TravelGo.png"
                                 alt="TravelGo Logo"
                                 className="h-12 hover:opacity-80 transition-opacity"
                             />

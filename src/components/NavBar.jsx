@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
-import logo from '../assets/images/TravelGo.png';
+import logo from '/images/TravelGo.png';
 import PrimaryButton from './buttons/PrimaryBtn';
 
 const Navbar = () => {
